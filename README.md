@@ -1,5 +1,5 @@
 ### Course: DBMS: Database Management Systems
-### Assignment 2: SQL Queries on IPL Database
+### Assignment: SQL Queries on IPL Database
 #### Creators: Sai Uday Kiran Y(MFD15I008)
 
 This assignment deals with the Indian Premier League dataset. It contains information about 568 cricket matches played in the duration from 2008-2016. The datasets are available in the 'data' directory.
